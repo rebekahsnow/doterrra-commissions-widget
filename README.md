@@ -7,6 +7,7 @@ Working on this project was an amazing experience. I was able to spearhead it wi
 
 ## Promo Videos 
 https://www.youtube.com/watch?v=GRjHj73SBa8
+
 https://www.youtube.com/watch?v=YxJMa38EimQ
 
 ## Design / UI
