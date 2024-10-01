@@ -1,7 +1,12 @@
 # doterrra-commissions-widget
 The Doterra Commissions Widget shows the total amount of money each Wellness Advocate has been paid per month. This information was previously only available within their website's back office portal. Now, users can stay up to date on their commissions. The widgets are available in three sizes, depending on how much information each user prefers. 
 
-ℹ️ The following documentation written by Rebekah was intended for internal use and has sensitive information redacted. 
+Working on this project was an amazing experience. I was able to spearhead it with the help of two back-end developers and our usability research team. I loved the opportunity to contribute my opinions about the design and back-end sorting solutions while also thinking of creative solutions to users' pain points.
+
+ℹ️ The following documentation is intended for internal use only. Some information has been redacted for privacy. See below for examples of the documentation experience.
+
+## Promo Video
+https://www.youtube.com/watch?v=GRjHj73SBa8
 
 ## Design / UI
 ### Final Design Screenshots 
