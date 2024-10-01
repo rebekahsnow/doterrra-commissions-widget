@@ -5,8 +5,9 @@ Working on this project was an amazing experience. I was able to spearhead it wi
 
 ℹ️ The following documentation is intended for internal use only. Some information has been redacted for privacy. See below for examples of the documentation experience.
 
-## Promo Video
+## Promo Videos 
 https://www.youtube.com/watch?v=GRjHj73SBa8
+https://www.youtube.com/watch?v=YxJMa38EimQ
 
 ## Design / UI
 ### Final Design Screenshots 
